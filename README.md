@@ -1,1 +1,1 @@
-patika.dev ödev 1
+patika.dev SQL ödev 
